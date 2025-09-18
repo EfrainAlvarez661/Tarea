@@ -111,6 +111,7 @@
       <p class="name">Mis metas son graduarme y casarme con Angelly</p>
       <p class="section-title">Mis estudios:</p>
       <p class="name">Graduado de transicion</p>
+      <p class="name">Graduado de secundaria</p>
     </aside>
   </div>
 </body>
