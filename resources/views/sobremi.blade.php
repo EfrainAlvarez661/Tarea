@@ -111,6 +111,7 @@
       <p class="name">Mis metas son graduarme y casarme con Angelly</p>
       <p class="section-title">Mis experiencias:</p>
       <p class="name">-Codear en Pseint</p>
+      <p class="name">-Codear en Python</p>
     </aside>
   </div>
 </body>
