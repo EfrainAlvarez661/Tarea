@@ -111,6 +111,7 @@
       <p class="name">Mis metas son graduarme y casarme con Angelly</p>
       <p class="section-title">Mis habilidades:</p>
       <p class="name">Buena comunicacion</p>
+      <p class="name">Liderazgo</p>
     </aside>
   </div>
 </body>
