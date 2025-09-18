@@ -105,6 +105,8 @@
       <p class="name">Creci en Ocaña jugando con mis amigos y mi sueño era ser policia</p>
       <p class="section-title">Mi adolesencia:</p>
       <p class="name">En mi adolesencia jugue mucho futbol y conoci a mi novia angelly</p>
+      <p class="section-title">A que me dedico:</p>
+      <p class="name">Actualmente me dedico a estudiar ingenieria de sistemas y a invertir en Betplay</p>
     </aside>
   </div>
 </body>
