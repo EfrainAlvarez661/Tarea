@@ -107,6 +107,8 @@
       <p class="name">En mi adolesencia jugue mucho futbol y conoci a mi novia angelly</p>
       <p class="section-title">A que me dedico:</p>
       <p class="name">Actualmente me dedico a estudiar ingenieria de sistemas y a invertir en Betplay</p>
+      <p class="section-title">Mis metas:</p>
+      <p class="name">Mis metas son graduarme y casarme con Angelly</p>
     </aside>
   </div>
 </body>
