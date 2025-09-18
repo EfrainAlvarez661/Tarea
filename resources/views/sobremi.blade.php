@@ -112,6 +112,7 @@
       <p class="section-title">Mis experiencias:</p>
       <p class="name">-Codear en Pseint</p>
       <p class="name">-Codear en Python</p>
+      <p class="name">-Codear en Java</p>
     </aside>
   </div>
 </body>
