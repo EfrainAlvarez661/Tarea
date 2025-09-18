@@ -113,6 +113,11 @@
       <p class="name">-Codear en Pseint</p>
       <p class="name">-Codear en Python</p>
       <p class="name">-Codear en Java</p>
+      <p class="section-title">Mis habilidades:</p>
+      <p class="name">Buena comunicacion</p>
+      <p class="name">Liderazgo</p>
+      <p class="name">Perseverancia</p>
+
     </aside>
   </div>
 </body>
