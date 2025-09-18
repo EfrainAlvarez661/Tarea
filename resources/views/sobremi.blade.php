@@ -112,6 +112,8 @@
       <p class="section-title">Mis habilidades:</p>
       <p class="name">Buena comunicacion</p>
       <p class="name">Liderazgo</p>
+      <p class="name">Perseverancia</p>
+
     </aside>
   </div>
 </body>
