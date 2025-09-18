@@ -109,6 +109,8 @@
       <p class="name">Actualmente me dedico a estudiar ingenieria de sistemas y a invertir en Betplay</p>
       <p class="section-title">Mis metas:</p>
       <p class="name">Mis metas son graduarme y casarme con Angelly</p>
+      <p class="section-title">Mis estudios:</p>
+      <p class="name">Graduado de transicion</p>
     </aside>
   </div>
 </body>
