@@ -101,6 +101,8 @@
       <p class="name">Efraín Álvarez</p>
       <p class="section-title">Procedencia:</p>
       <p class="name">Soy de Ocaña, soy hijo unico y soy fan del cucuta</p>
+      <p class="section-title">Mi niñez:</p>
+      <p class="name">Creci en Ocaña jugando con mis amigos y mi sueño era ser policia</p>
     </aside>
   </div>
 </body>
