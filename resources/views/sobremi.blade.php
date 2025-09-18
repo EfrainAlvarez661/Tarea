@@ -99,6 +99,8 @@
       <div class="divider" aria-hidden="true"></div>
       <p class="section-title">Mi nombre:</p>
       <p class="name">Efraín Álvarez</p>
+      <p class="section-title">Procedencia:</p>
+      <p class="name">Soy de Ocaña, soy hijo unico y soy fan del cucuta</p>
     </aside>
   </div>
 </body>
