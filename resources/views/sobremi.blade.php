@@ -118,6 +118,10 @@
       <p class="name">Liderazgo</p>
       <p class="name">Perseverancia</p>
 
+      <p class="section-title">Mis estudios:</p>
+      <p class="name">Graduado de transicion</p>
+      <p class="name">Graduado de transicion</p>
+      <p class="name">Proximamente graduado de ingenieria de sistemas</p>
     </aside>
   </div>
 </body>
