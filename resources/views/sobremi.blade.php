@@ -103,6 +103,8 @@
       <p class="name">Soy de Ocaña, soy hijo unico y soy fan del cucuta</p>
       <p class="section-title">Mi niñez:</p>
       <p class="name">Creci en Ocaña jugando con mis amigos y mi sueño era ser policia</p>
+      <p class="section-title">Mi adolesencia:</p>
+      <p class="name">En mi adolesencia jugue mucho futbol y conoci a mi novia angelly</p>
     </aside>
   </div>
 </body>
